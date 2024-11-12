@@ -1,1 +1,1 @@
-flannel
+flannel/flannel:v0.23.0
