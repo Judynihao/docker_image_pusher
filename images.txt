@@ -1,3 +1,1 @@
-nginx
-
-
+flannel:v0.22.3
