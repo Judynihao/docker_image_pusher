@@ -1,1 +1,1 @@
-cng/gitlab-sidekiq-ee
+cng/gitlab-sidekiq-ee:v17.2.2
